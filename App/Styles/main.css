@@ -1,0 +1,42 @@
+.productAddHeader {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: black;
+}
+
+.error {
+    color: red;
+}
+
+.productShowHeader {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.productTable {
+    width: 100%;
+}
+
+.tableShell {
+    margin: 10px;
+}
+.tableInfo{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.tableData{
+    text-align: center;
+}
+
+.myField {
+    border: 2px solid black;
+    margin: 5px;
+    /*text-align: center;*/
+}
